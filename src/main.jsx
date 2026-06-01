@@ -47,7 +47,7 @@ function Card({ children, className = "" }) {
 function App() {
   const serverName = "Westbridge RP";
   const discordServerId = "1484919968205373681";
-  const discordUrl = "https://discord.gg/westbridgerp";
+  const discordUrl = "https://discord.gg/GNGybDH3ex";
   const serverIp = "134.255.233.35:30310";
   const maxPlayers = 128;
   const connectUrl = `fivem://connect/${serverIp}`;
