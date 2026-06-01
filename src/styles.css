@@ -111,7 +111,7 @@ h1 em { font-style: normal; color: transparent; background: linear-gradient(#fef
 .mansion-card { display: grid; grid-template-columns: 300px 1fr; overflow: hidden; }
 .mansion-image { min-height: 240px; display: grid; place-items: center; background: linear-gradient(135deg, rgba(250,204,21,.18), rgba(249,115,22,.14)); }
 .mansion-image svg { width: 86px; height: 86px; color: #facc15; }
-.mansion-image img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.mansion-image img { width: 85%; height: 85%; object-fit: cover; display: block; }
 .mansion-content { padding: 26px; }
 .mansion-top { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
 .mansion-top h4 { margin: 0; font-size: 26px; text-transform: uppercase; }
