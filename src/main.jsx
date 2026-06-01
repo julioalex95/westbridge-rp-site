@@ -49,7 +49,7 @@ function App() {
   const discordServerId = "1484919968205373681";
   const discordUrl = "https://discord.gg/GNGybDH3ex";
   const serverIp = "134.255.233.35:30310";
-  const maxPlayers = 128;
+  const maxPlayers = 32;
   const connectUrl = `fivem://connect/${serverIp}`;
   const logoUrl = "/logo.png";
 
