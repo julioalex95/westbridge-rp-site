@@ -145,7 +145,7 @@ function App() {
           name: "Mansão 5",
           status: "Disponível",
           location: "",
-          image: "/mansa5.png",
+          image: "/mansao5.png",
           descrição: "exelente manão com heliporto e uma parte sub-terrànea, manão muito interessante",
           preço: "50.00€"
           },
