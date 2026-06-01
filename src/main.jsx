@@ -111,19 +111,77 @@ function App() {
 
   const mansions = [
     {
-      name: "Mansão Vinewood",
+      name: "Mansão 1",
       status: "Disponível",
       location: "Vinewood Hills",
-      image: "",
-      description: "Mansão premium com garagem, zona exterior e localização de luxo."
+      image: "/mansoes/mansao1.jpg",
+      description: "Mansão premium com garagem, zona exterior e localização de luxo.",
+      preço: "50.00€",
     },
     {
-      name: "Mansão Eclipse",
-      status: "Brevemente",
+      name: "Mansão 2",
+      status: "Disponível",
       location: "Zona alta da cidade",
-      image: "",
-      description: "Espaço exclusivo para RP familiar, empresarial ou criminal."
-    }
+      image: "/mansoes/mansao2.jpg",
+      description: "Espaço exclusivo para RP familiar, empresarial ou criminal.",
+      preço: "50.00€",
+    },
+    { name: "Mansão 3", 
+      status: "Disponível",
+      location: "Forte Zancudo",
+      image:"/mansoes/mansao3.jpg",
+      descrição: "mansão com garagem e muito espaço para desfrutar com a sua familia",
+      preço: "50.00€",
+      },
+      {
+        name: "Mansão 4",
+        status: "Disponível",
+        location: "/mansoes/mansao4.jpg",
+        image: "",
+        descrição: "Mansão com uma exelente vista para a cidade com muito espaço exterior",
+        preço: "50.00€",
+        },
+        {
+          name: "Mansão 5",
+          status: "Disponível",
+          location: "",
+          image: "/mansoes/mansa5.jpg",
+          descrição: "exelente manão com heliporto e uma parte sub-terrànea, manão muito interessante",
+          preço: "50.00€"
+          },
+          {
+            name: "Mansão 6",
+            status: "Disponível",
+            location: "",
+            image: "/mansoes/mansao6.jpg",
+            descrição: "Mansão com muito terreno e espaço de estacionamento , com piscina e uma grande vinha , uma vista muito bonita",
+            preço: "50.00€",
+          },
+          {
+            name: "Mansão 7",
+            status: "Disponível",
+            location: "",
+            image: "/mansoes/mansao7.jpg",
+            descrição: "Mansão perto do mar e perto também do hospital muito top",
+            preço: "25.00€",
+          },
+          {
+            name: "Mansão 8",
+            status: "Disponível",
+            location: "",
+            image: "/mansoes/mansao8.jpg",
+            descrição: "Mansão com uma vista deslumbrante para a cidade e muito espaço exterior",
+            preço: "50.00€",
+          },
+          {
+            name: "Mansão 9",
+            status: "Disponível",
+            location: "",
+            image: "/mansoes/mansao9.jpg",
+            descrição: "Mansão com uma vista magnífica para a cidade e muito espaço exterior",
+            preço: "50.00€"
+          }
+
   ];
 
   return (
