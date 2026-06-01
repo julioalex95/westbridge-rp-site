@@ -155,9 +155,11 @@ function App() {
             <p className="intro">
               A Westbridge RP oferece-te uma experiência de roleplay realista,
               imersiva e feita para quem leva o RP a sério.
+              A Westbridge RP é um servidor privado com whitelist. Para entrar,
+              envia a tua candidatura no Discord e aguarda a análise da staff.
             </p>
             <div className="actions">
-              <Button href={connectUrl}>Conecta-te agora</Button>
+              <Button href={discordUrl}>Fazer candidatura</Button>
               <Button href={discordUrl} variant="outline">Entra no Discord</Button>
             </div>
           </motion.div>
